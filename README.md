@@ -7,3 +7,13 @@
 담당교수 : 박규동
 
 localbase에서 수정...
+
+강의 내용
+ 
+ - 리눅스
+ 
+ - git
+ 
+ - github
+ 
+ - docker
